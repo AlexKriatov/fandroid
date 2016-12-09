@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P0101_Listener</string>
+    <string name="clicked_but1">Clicked button 1</string>
+    <string name="clicked_b2">Clicked button 2</string>
+    <string name="clicked_b3">Clicked button 3</string>
+    <string name="textButton">4</string>
+</resources>

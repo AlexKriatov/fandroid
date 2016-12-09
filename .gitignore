@@ -1,6 +1,0 @@
-/Projects/**/*
-!/Projects/**/app
-/Projects/**/app/*
-!/Projects/**/app/src
-/Projects/**/app/src/*
-!/Projects/**/app/src/main

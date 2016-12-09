@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">P0441SimpleListEvents</string>
+
+    <string-array name="names">
+        <item>Иван</item>
+        <item>Марья</item>
+        <item>Пётр</item>
+        <item>Антон </item>
+        <item>Даша </item>
+        <item>Борис</item>
+        <item>Костя</item>
+        <item>Игорь</item>
+        <item>Жора </item>
+        <item>Света</item>
+        <item>Дима </item>
+    </string-array>
+</resources>

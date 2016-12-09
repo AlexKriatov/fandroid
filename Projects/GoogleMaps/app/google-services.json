@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "324459030609",
+    "project_id": "android-education-a5int"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324459030609:android:07ffe85b5d38c847",
+        "android_client_info": {
+          "package_name": "com.example.a5androidintern1.googlemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324459030609-c89h1os0e604p90slgef327ij9oi4l7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a5androidintern1.googlemaps",
+            "certificate_hash": "9D6AA5C8356FB93EDED56ADC9762926BECCF2D35"
+          }
+        },
+        {
+          "client_id": "324459030609-dv54sla57f20s9kfe8fealeukvppatj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfqu0FiZTjAuwl7iilIwMjzKE3bJr_tiI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
